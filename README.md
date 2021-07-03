@@ -1,4 +1,4 @@
-#### I'm a good Linux user and a ethical hacker. Feel free to ask me any doubts regards coding or hacking, mainly I'm a guy who does things.
+#### A part-time gamer, full-time hacker, complete linux user and seasonal badminton player. Spending my valuable time developing tools and viruses.
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
