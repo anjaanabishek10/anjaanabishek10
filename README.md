@@ -88,4 +88,4 @@ Myself, A resourceful computer programmer and well-rounded IT guy with some good
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=anjaanabishek10&no-bg=true&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=anjaanabishek10&no-bg=true&no-frame=true&theme=onedark)
