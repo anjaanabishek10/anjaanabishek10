@@ -94,67 +94,27 @@ Myself, A resourceful computer programmer and well-rounded IT guy with some good
 
 <p align="center">
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
 </a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-<a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="80px" width="80px" />
-</a>
-
 </p>
