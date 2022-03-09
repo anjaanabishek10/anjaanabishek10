@@ -94,27 +94,27 @@ Myself, A resourceful computer programmer and well-rounded IT guy with some good
 
 <p align="center">
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 <a href="https://github.com/hackerofhavoc">
-<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="70px" width="70px" />
+<img src="https://avatars.githubusercontent.com/u/84559514?s=100&v=4" height="60px" width="60px" />
 </a>
 </p>
