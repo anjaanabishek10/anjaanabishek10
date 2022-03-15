@@ -18,7 +18,7 @@ Myself, A resourceful computer programmer and well-rounded IT guy with some good
 <img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/instagram.png" alt="Abishek's Instagram" width="22px" />
 </a>
 <a href="https://www.facebook.com/anjaan.abishek.10">
-<img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/facebook.png" alt="Abishek's Facebook" width="22px" />
+<img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/fb.png" alt="Abishek's Facebook" width="22px" />
 </a>
 <a href="mailto:anjaanabishek10@gmail.com">
 <img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/mail.png" alt="Abishek's GMail" width="22px" />
