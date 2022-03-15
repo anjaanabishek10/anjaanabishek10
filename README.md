@@ -33,7 +33,7 @@ Myself, A resourceful computer programmer and well-rounded IT guy with some good
 <img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/linkedin.svg" alt="Abishek's LinkedIn" width="22px" />
 </a>
 <a href="https://www.hackerrank.com/anjaanabishek10">
-<img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/ackerrank.png" alt="Abishek's HackerRank" width="22px" />
+<img src="https://github.com/anjaanabishek10/anjaanabishek10/blob/main/hackerrank.png" alt="Abishek's HackerRank" width="22px" />
 </a>
 </p>
 
